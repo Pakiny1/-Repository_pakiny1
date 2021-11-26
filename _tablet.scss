@@ -1,0 +1,41 @@
+@media (max-width: 1023px) {
+    // стили для планшета
+    .center {
+        padding-left: calc(50% - 395px);
+        padding-right: calc(50% - 395px);
+    }
+    .for_product1 {
+        height: 266px;
+    }
+    .for_product2 {
+        height: 266px;
+    }
+    .for_product3 {
+        height: 266px;
+    }
+    .for_product4 {
+        height: 266px;
+    }
+    .for_product5 {
+        height: 266px;
+    }
+    .logo {
+        display: none;
+    }
+    .tovar {
+        width: 100%;
+    }
+    .navfooter {
+        margin-right: 50%;
+    }  
+}
+
+@media (min-width: 768px) and (max-width: 833px) {
+    .product1 {
+        width: 345px;
+    }
+    .center {
+        padding-left: calc(50% - 370px);
+        padding-right: calc(50% - 370px);
+    }    
+}

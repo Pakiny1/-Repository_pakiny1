@@ -1,0 +1,146 @@
+@media (max-width: 767px) {
+    .center {
+        padding-left: calc(50% - 171px);
+        padding-right: calc(50% - 171px);
+    }
+
+    .title {
+        font-size: 48px;
+        line-height: 59px;
+        text-align: center;
+        margin-top: 29px;
+    }
+    .p-like1 {
+        font-size: 16px;
+        text-align: center;
+    }
+    .go2catalog {
+        font-size: 14px;
+        text-align: center;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+
+    .input_1 {
+        display: none;
+    }
+    .nav {
+        display: none;
+    }
+    .header__links {
+        display: flex;
+        gap: 32px;
+    }
+    .title2 {
+        font-size: 24px;
+        line-height: 29px;
+    }
+    .for_product {
+        font-size: 28px;
+        line-height: 34px;
+        grid-column: 1 / -1; 
+    }
+    .for_greed {
+        grid-template-columns: repeat(4,1fr);
+    }
+    .big {
+        height: 244px;
+    }
+    .for_product3 {
+        height: 375px
+    }
+    .for_product4 {
+        height: 375px
+    }
+    .for_product5 {
+        height: 375px
+    }
+    .p-like3 {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .p-like4 {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .p-like2 {
+        font-size: 14px;
+        line-height: 17px; 
+    }
+    .p-like5 {
+        margin-top: 32px;
+        display: flex;
+        align-items: center;
+        font-size: 12px;
+        line-height: 15px;
+        justify-content: center;
+    }
+    .form_footer {
+        text-align: center;
+        display: flex;
+        justify-content: space-evenly;
+        flex-direction: column;
+        align-items: center;
+        flex-wrap: wrap;
+        align-content: space-around;
+    }
+    .footer {
+        display: fliex;
+        justify-content: space-between;
+    }
+    .top {
+        margin-bottom: 0%;
+        min-height: 100vh;
+    }
+    .for {
+        padding-top: 32px;
+    }
+    .breadcrumbs {
+        font-size: 14px;
+        line-height: 32px;
+    }
+    .select {
+        font-size: 14px;
+        line-height: 17px;
+    }
+    .newformobile {
+        margin-top: 99px;
+    }
+    .formmob {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+    }
+    .card {
+        display: none;
+    }
+    .mainbascet {
+    }
+    
+    .tovar {
+        width: 100%;
+    }
+    .inmenu {
+        width: 65%;
+    }
+    .select {
+        margin-top: 17px;
+    }
+    .inbasxet4 {
+        width: 163px;
+        height: 37px;
+        text-align: center;
+        font-size: 12px;
+        line-height: 15px;
+    }
+    .inbasxet5 {
+        width: 163px;
+        height: 37px;
+        text-align: center;
+        font-size: 12px;
+        line-height: 15px;
+    }
+}
